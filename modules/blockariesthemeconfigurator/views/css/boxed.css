@@ -1,0 +1,9 @@
+/* Home hook CSS */
+
+@media (min-width: 1320px) {
+#wrapper1 { width:1320px; margin:0 auto; box-shadow:0 0 15px 3px rgba(0, 0, 0, 0.2); } 
+}
+
+/* Left hook CSS */
+/* Right hook CSS */
+/* Footer hook CSS */

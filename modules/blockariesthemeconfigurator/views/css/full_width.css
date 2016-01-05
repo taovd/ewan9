@@ -1,0 +1,10 @@
+/* Home hook CSS */
+
+
+#wrapper1 { width:99%; margin:0 auto;}
+@media (min-width: 1320px) {
+	#wrapper1 { width:100%; margin:0 auto;}
+}
+/* Left hook CSS */
+/* Right hook CSS */
+/* Footer hook CSS */

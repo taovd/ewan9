@@ -1,0 +1,15 @@
+
+[{shop_url}] 
+
+{lastname} {firstname} 您好, 
+
+根據你的購物編號 {order_name},
+有一張優惠券已經以你的名義創建.
+
+優惠券編碼：{voucher_num} 金額 {voucher_amount}
+
+只需在您下一個訂單的付款流程複製/粘貼此代碼。
+
+{shop_name} [{shop_url}] 技術支持提供:
+PrestaShop(tm) [http://www.prestashop.com/] 
+
